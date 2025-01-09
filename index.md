@@ -1,14 +1,17 @@
 # Nagłówek
 
-fsd
-sdf
-sadf
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 
 ## sdfsadfas
-asdf
-sadf
-sdaf
+
+```javascript
+var myVar = "Hello, world!";
+```
 
 ## sdfsad
 asf
