@@ -14,7 +14,10 @@ var myVar = "Hello, world!";
 ```
 
 ## sdfsad
-asf
-sadf
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
+- [ ] asdasas
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
