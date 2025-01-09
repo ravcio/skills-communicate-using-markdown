@@ -16,6 +16,8 @@ var myVar = "Hello, world!";
 
 ## sdfsad
 
+Zmiany 3
+
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [X] Introduce myself to the world
